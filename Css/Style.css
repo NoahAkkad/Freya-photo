@@ -11,14 +11,14 @@ h2 {
     color: #2c2c2c;
     text-align: center;
     text-decoration: underline;
-    text-shadow: 2px 2px 5px #2c2c2c67;
+    text-shadow: 2px 2px 5px #2E3E40;
 }
 h2 a {
-    color: #2c2c2c; 
+    color: #2E3E40; 
 }
 p {
     font-family: 'Raleway' serif;
-    color: #2c2c2c;
+    color: #2E3E40;
     font-size: 140%;
     line-height: 180%;
     text-align: justify;
@@ -39,10 +39,10 @@ img {
 .description{
     margin-left: 2%;
     text-align: center;
-    opacity: .5;
+    opacity: .8;
     letter-spacing: 5px;
     text-decoration: none;
-    text-shadow: 2px 2px 2px #2c2c2c;
+    text-shadow: 2px 2px 5px #2E3E40;
 
 }
 .intro {
@@ -78,19 +78,11 @@ h1 {
 }
 h1 a {
     font-family:Arial, Helvetica, sans-serif;
-    color: #fff;
+    color: #F2F2F2;
     text-decoration: none;
 }
-h1 a:hover {
-   color:  #fbe202;
-   transition: 2s;
-   -webkit-transition: 2s;
-   -moz-transition: 2s;
-   -ms-transition: 2s;
-   -o-transition: 2s;
-}
 .content p {
-    color: #fff;
+    color: #F2F2F2;
 }
 .inner {
     max-width: 600px;
@@ -117,7 +109,7 @@ nav ul li {
     font-size: 120%;
 }
 nav ul li a {
-    color:#fff;
+    color:#F2F2F2;
     text-decoration: none;
 }
 nav ul li a:hover {
@@ -239,27 +231,27 @@ nav:hover ul {
 .social i {
     font-size: 300%;
     margin: 2% 3% 5% 3%;
-    color: #2c2c2c;
+    color: #2E3E40;
 }
 .social i:hover {
-    color: #606060;
+    color: #736F5A;
 }
 footer.second {
-    background-color: #2c2c2c;
+    background-color: #2E3E40;
 }
 footer.second p {
-    color: #fff;
+    color: #F2F2F2;
     text-align: center;
     padding: 3%;
 }
 footer a{
-    color: #8a8989;
+    color: #736F5A;
     text-decoration: none;  
 }
 input, select, textarea {
     width: 100%; 
     padding: 12px; 
-    border: 1px solid rgb(85, 85, 85); 
+    border: 1px solid #736F5A; 
     border-radius: 4px; 
     box-sizing: border-box;
     margin-top: 6px; 
@@ -267,7 +259,7 @@ input, select, textarea {
     resize: vertical;
   }
   input {
-    background-color: #fff;
+    background-color: #F2F2F2;
     color: rgb(0, 0, 0);
     padding: 12px 20px;
     border: none;
@@ -276,7 +268,7 @@ input, select, textarea {
   }
   input:hover {
     background-color: #2c2c2c9e;
-    color: #fff;
+    color: #F2F2F2;
   }
   .contactme {
     border-radius: 5px;
